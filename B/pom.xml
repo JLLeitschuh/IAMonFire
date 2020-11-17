@@ -53,7 +53,7 @@
         <apache.version>4.5.3</apache.version>
         <jersey.version>2.25.1</jersey.version>
         <junit.version>4.12</junit.version>
-        <jwt.nimbus.version>6.0</jwt.nimbus.version>
+        <jwt.nimbus.version>7.9</jwt.nimbus.version>
         <bouncycastle.version>1.58</bouncycastle.version>
         <slf4j.version>1.7.6</slf4j.version>
         <swagger.version>2.9.2</swagger.version>
